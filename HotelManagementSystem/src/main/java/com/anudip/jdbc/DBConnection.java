@@ -8,7 +8,7 @@ public class DBConnection {
 
     // Connecion Properties
     public static final String driver = "com.mysql.cj.jdbc.Driver";
-    public static final String url = "jdbc:mysql://127.0.0.1:3306/hotel";
+    public static final String url = "jdbc:mysql://127.0.0.1:3306/hoteldb";
     public static final String username = "root";
     public static final String password = "B@2002";
 
